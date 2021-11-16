@@ -1,0 +1,22 @@
+{
+  "name": "connection-monitor",
+  "version": "0.0.0",
+  "description": "Monitor your internet connectivity",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gaya/connection-monitor.git"
+  },
+  "author": "Gaya Kessler",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Gaya/connection-monitor/issues"
+  },
+  "homepage": "https://github.com/Gaya/connection-monitor#readme",
+  "dependencies": {
+    "node-notifier": "^10.0.0"
+  }
+}
